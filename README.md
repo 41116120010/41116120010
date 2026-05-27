@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=41116120010&label=Profile%20views&color=0e75b6&style=flat" alt="41116120010" /> </p>
 
-- 👨‍💻 Semua Project Saya tersedia Pada Portofolio [https://www.daffiq.love](https://www.daffiq.love)
+- 👨‍💻 Semua Project Saya tersedia Pada Portofolio [https://www.daffiq.net](https://www.daffiq.net)
 
-- 📫 Ingin Menghubungi Saya? Bisa Melalui Email **help@daffiq.love**
+- 📫 Ingin Menghubungi Saya? Bisa Melalui Email **halo@daffiq.net**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
