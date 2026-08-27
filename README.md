@@ -1,9 +1,10 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=41116120010&label=Profile%20views&color=0e75b6&style=flat" alt="41116120010" /> </p>
+
 <h1 align="center">Halo, Saya Daffiq Trie Octorino</h1>
 <h3 align="center">Mahasiswa Politeknik Negeri Padang dengan Program Studi Teknik Komputer.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=41116120010&label=Profile%20views&color=0e75b6&style=flat" alt="41116120010" /> </p>
 
-<p align="center"> - Ingin Menghubungi Saya? Bisa Melalui Email **halo@daffiq.net** </p>
+<p align="center">Ingin Menghubungi Saya? Bisa Melalui Email halo@daffiq.net</p>
 
 <h3 align="center">Connect with me :</h3>
 <p align="center">
